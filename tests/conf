@@ -2,7 +2,7 @@
 # fstest configuration file
 
 # Known operating systems: FreeBSD, SunOS, Linux
-os=`uname`
+os=`Linux`
 
 # Known file systems: UFS, ZFS, ext3, ntfs-3g, xfs
-fs="ext3"
+fs="ntfs"
